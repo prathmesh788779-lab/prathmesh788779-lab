@@ -42,8 +42,8 @@ I specialize in transforming raw data into **actionable business insights** thro
 
 ## 🎓 Certifications & Learning
 
-- **Career Essentials in Data Analysis – Microsoft & LinkedIn**  
-  *(Professional Certificate)*
+- **Career Essentials in Data Analysis – Microsoft & LinkedIn**
+-  *(Professional Certificate)*
   
 - **Career Essentials in Generative AI – Microsoft & LinkedIn**
 -  *(Professional Certificate)*
